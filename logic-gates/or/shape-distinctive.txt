@@ -1,0 +1,18 @@
+    ___          
+A --\  ''-.      
+     )     )--- Q
+B --/__..-'      
+
+---
+  title: Logic gate
+  subject: OR
+  note: A and B are the inputs, Q is the output
+  source:
+    url: https://en.wikipedia.org/wiki/File:OR_ANSI_Labelled.svg
+    license: 
+      short: public domain
+      text: >
+        I, the copyright holder of this work, release this work into the public domain. This applies worldwide.
+        In some countries this may not be legally possible; if so:
+        I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+...
